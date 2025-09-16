@@ -1,8 +1,8 @@
-#王胤祥
-##關於我
--少許java技能
--英語外語能力
--拍攝技能
+# 王胤祥
+## 關於我
+- 少許java技能
+- 英語外語能力
+- 拍攝技能
 **最擅長拍攝技能**
 *You’re uinique, nothing can replace you.*
 <https://www.cpbl.com.tw/>
