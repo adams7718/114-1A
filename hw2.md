@@ -1,6 +1,5 @@
 ```gantt
     title 專案甘特圖
-    dateFormat  YYYY-MM-DD
     section 計畫
     研擬計畫          :a1, 2025-10-01, 4d
     任務分配          :a2, after a1, 1d
