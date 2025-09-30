@@ -1,4 +1,4 @@
-gantt
+```gantt
     title 專案甘特圖
     dateFormat  YYYY-MM-DD
     section 計畫
@@ -16,3 +16,4 @@ gantt
     section 使用者
     使用者訓練        :a10, after a7 a8, 20d
     使用者測試        :a11, after a9 a10, 25d
+```
