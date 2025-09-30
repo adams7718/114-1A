@@ -1,4 +1,5 @@
-```gantt
+```mermaid
+gantt
     title 專案甘特圖
     section 計畫
     研擬計畫          :a1, 2025-10-01, 4d
